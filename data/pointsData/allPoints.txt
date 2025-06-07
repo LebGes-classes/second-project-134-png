@@ -1,0 +1,5 @@
+ID city street pointType accountableID cashierID
+1 Cheboksari chebo_2 Storage null null
+2 Kazan Центральная_6 SellPoint null null
+3 Moscow Центральная_3 Storage null null
+4 Moscow Центральная_4 SellPoint null null

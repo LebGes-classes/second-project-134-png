@@ -1,0 +1,4 @@
+CommonProfit: -8750
+Point_ID Proceeds
+2 1800
+4 3000

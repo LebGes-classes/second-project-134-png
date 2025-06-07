@@ -1,0 +1,7 @@
+id title brand price type
+1 Кофе CoffeeTime 1500 MEAL
+2 Кофе CoffeeTime 1500 MEAL
+3 Роутер TP-Link 3000 TECH
+4 Роутер TP-Link 3000 TECH
+5 Набор_кастрюль Tefal 2850 HOUSEHOLD
+6 Набор_кастрюль Tefal 2850 HOUSEHOLD
